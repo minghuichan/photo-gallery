@@ -1,0 +1,1 @@
+import{Z as r}from"./index-1be2761d.js";const o=r;o.install=e=>{o._context=e._context,e.config.globalProperties.$msgbox=o,e.config.globalProperties.$messageBox=o,e.config.globalProperties.$alert=o.alert,e.config.globalProperties.$confirm=o.confirm,e.config.globalProperties.$prompt=o.prompt};const t=o;export{t as E};
