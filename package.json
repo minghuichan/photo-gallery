@@ -8,7 +8,7 @@
     "preview": "vite preview",
     "deploy": "vite build && gh-pages -d dist"
   },
-  "homepage": "https://yourusername.github.io/gallery-management-system",
+  "homepage": "https://minghuichan.github.io/photo-gallery",
   "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
     "element-plus": "^2.3.14",
