@@ -154,9 +154,6 @@ export const useGalleryStore = defineStore('gallery', () => {
     }
   }
 
-  // 立即加载数据
-  loadImages()
-
   return {
     images,
     searchKeyword,

@@ -185,6 +185,7 @@ const handleKeydown = (e) => {
 
 onMounted(() => {
   window.addEventListener('keydown', handleKeydown)
+  store.loadImages() // 加载图片数据
 })
 
 onUnmounted(() => {
